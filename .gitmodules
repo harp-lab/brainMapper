@@ -1,0 +1,3 @@
+[submodule "MapperInteractive"]
+	path = MapperInteractive
+	url = https://github.com/MapperInteractive/MapperInteractive.git
