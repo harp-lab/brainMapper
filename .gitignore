@@ -1,0 +1,8 @@
+__pycache__/
+*.xlsx
+*.csv
+*.mat
+*.json
+*.npz
+*.env
+venv/
